@@ -1,0 +1,7 @@
+/home/etudiants/chen61/Bureau/M2 ISICG/geo discrete/TP1/build/CMakeFiles/main.dir
+/home/etudiants/chen61/Bureau/M2 ISICG/geo discrete/TP1/build/CMakeFiles/edit_cache.dir
+/home/etudiants/chen61/Bureau/M2 ISICG/geo discrete/TP1/build/CMakeFiles/rebuild_cache.dir
+/home/etudiants/chen61/Bureau/M2 ISICG/geo discrete/TP1/build/CMakeFiles/list_install_components.dir
+/home/etudiants/chen61/Bureau/M2 ISICG/geo discrete/TP1/build/CMakeFiles/install.dir
+/home/etudiants/chen61/Bureau/M2 ISICG/geo discrete/TP1/build/CMakeFiles/install/local.dir
+/home/etudiants/chen61/Bureau/M2 ISICG/geo discrete/TP1/build/CMakeFiles/install/strip.dir
