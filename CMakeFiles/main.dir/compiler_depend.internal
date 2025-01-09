@@ -1896,4 +1896,10 @@ CMakeFiles/main.dir/main.cpp.o
  /usr/local/include/DGtal/topology/helpers/Surfaces.ih
  /usr/local/include/DGtal/images/imagesSetsUtils/ImageFromSet.h
  /usr/local/include/DGtal/images/imagesSetsUtils/ImageFromSet.ih
+ /usr/local/include/DGtal/geometry/curves/GreedySegmentation.h
+ /usr/local/include/DGtal/geometry/curves/CForwardSegmentComputer.h
+ /usr/local/include/DGtal/geometry/curves/CIncrementalSegmentComputer.h
+ /usr/local/include/DGtal/geometry/curves/CSegmentFactory.h
+ /usr/local/include/DGtal/geometry/curves/CSegment.h
+ /usr/local/include/DGtal/geometry/curves/GreedySegmentation.ih
 
